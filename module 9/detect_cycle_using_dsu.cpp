@@ -38,6 +38,8 @@ int main()
 
    dsu_union(1, 2);
 
+
+
    int n, e;
    cin >> n >> e;
    bool cycle = false;
